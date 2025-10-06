@@ -4,13 +4,12 @@ This repository contains multiple C# console-based projects demonstrating key pr
 Each project is self-contained and focuses on a specific idea or functionality.
 
 ---
-
 ## 📚 Table of Contents
-- [Inventory Management System](#-inventory-management-system)
-- [Quiz Game](#-quiz-game)
-- [Task Tracker](#-task-tracker)
-- [Shopping Project](#-shopping-project)
-- [How to Run Any Project](#-how-to-run-any-project)
+- [Inventory Management System](#inventory-management-system)
+- [Quiz Game](#quiz-game)
+- [Task Tracker](#task-tracker)
+- [Shopping Project](#shopping-project)
+- [How to Run Any Project](#how-to-run-any-project)
 
 ---
 
